@@ -13,7 +13,7 @@ require (
 	github.com/elazarl/go-bindata-assetfs v1.0.0
 	github.com/go-gorp/gorp v2.2.0+incompatible
 	github.com/go-sql-driver/mysql v1.5.0
-	github.com/golang/protobuf v1.3.5
+	github.com/golang/protobuf v1.4.3
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.0
 	github.com/grpc-ecosystem/grpc-opentracing v0.0.0-20180507213350-8e809c8a8645
 	github.com/heptiolabs/healthcheck v0.0.0-20180807145615-6ff867650f40
@@ -37,9 +37,9 @@ require (
 	github.com/uber/jaeger-lib v2.2.0+incompatible
 	go.uber.org/multierr v1.5.0
 	go.uber.org/zap v1.16.0
-	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
+	golang.org/x/net v0.0.0-20200625001655-4c5254603344
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
+	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
 	golang.org/x/text v0.3.2
 	google.golang.org/grpc v1.28.0
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
@@ -71,17 +71,18 @@ require (
 	github.com/pborman/uuid v1.2.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/poy/onpar v0.0.0-20190519213022-ee068f8ea4d1 // indirect
-	github.com/prometheus/client_golang v1.5.1 // indirect
+	github.com/prometheus/client_golang v1.11.1 // indirect
 	github.com/prometheus/client_model v0.2.0 // indirect
-	github.com/prometheus/common v0.9.1 // indirect
-	github.com/prometheus/procfs v0.0.8 // indirect
+	github.com/prometheus/common v0.26.0 // indirect
+	github.com/prometheus/procfs v0.6.0 // indirect
 	github.com/spf13/cast v1.3.1 // indirect
 	github.com/technoweenie/multipartstreamer v1.0.1 // indirect
 	go.uber.org/atomic v1.6.0 // indirect
 	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a // indirect
-	golang.org/x/sys v0.0.0-20200323222414-85ca7c5b95cd // indirect
+	golang.org/x/sys v0.0.0-20210603081109-ebe580a85c40 // indirect
 	google.golang.org/appengine v1.6.5 // indirect
 	google.golang.org/genproto v0.0.0-20200108215221-bd8f9a0ef82f // indirect
+	google.golang.org/protobuf v1.26.0-rc.1 // indirect
 	gopkg.in/DATA-DOG/go-sqlmock.v1 v1.3.0 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/gorp.v1 v1.7.2 // indirect
